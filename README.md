@@ -14,11 +14,18 @@ Prerequisites
 Installing & Running
 
 • Open this project in your IDE, preferrably with a terminal.
+
 • Open your terminal and navigate to the project folder.
+
 • In the terminal run the command "docker-compose up"
+
 • To view the project go to http://localhost/ in a browser.
+
 • To edit the mysql go to http://localhost:8080/ for phpMyAdmin
+
 • Log into phpMyAdmin with username "phpuser" and password "phppass"
+
 • To stop the project run the terminal command "docker-composer down"
+
 
 
